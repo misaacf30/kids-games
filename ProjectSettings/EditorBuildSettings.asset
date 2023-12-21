@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0.Welcome.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1.Initial1.unity
+    guid: 2d5aa819b8e63294590eb80b3ee5138c
+  - enabled: 1
+    path: Assets/Scenes/2.Initial2.unity
+    guid: 2deb90e5ae6637746b4e0e40e151d595
+  - enabled: 1
+    path: Assets/Scenes/3.Jardin.unity
+    guid: 853355d78dd918248beebd2aeb1d729b
+  - enabled: 1
+    path: Assets/Scenes/1.1.Shapes.unity
+    guid: 90dc008c13ccec144bb766ef2d797a67
+  - enabled: 1
+    path: Assets/Scenes/1.2.LongShort.unity
+    guid: 6acf53997aef00f4390fc14ea46b156e
+  - enabled: 1
+    path: Assets/Scenes/1.3.Counting.unity
+    guid: be669059beb84ad4db51580e5f913ef2
+  - enabled: 1
+    path: Assets/Scenes/2.1.Addition.unity
+    guid: 2ad142709b1691e4098091894abc5d27
+  - enabled: 1
+    path: Assets/Scenes/2.4.FrontBack.unity
+    guid: a2fe8455a99fc69448aa537e6a65e04e
+  - enabled: 1
+    path: Assets/Scenes/3.2.GreaterLess.unity
+    guid: 9eb78ecbdc097e649bdfd210ce550a08
+  - enabled: 1
+    path: Assets/Scenes/3.3.DragDrop.unity
+    guid: 1e2882d704038ac41be83a19ed1c86fd
+  m_configObjects: {}

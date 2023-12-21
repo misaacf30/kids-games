@@ -1,0 +1,6 @@
+Juegos para niños del jardin de infantes "Gotitas del Saber"
+El juego se basa en 3 niveles los cuales son Inicial 1, Inicial 2, y Jardin. Cada nivel tiene multiples juego dependiendo en el conocimiento del estudiante. En cada uno de esos se utiliza varios assets como imagenes, figuras, voces generadas por inteligencia artifical, botones interactivos, y principalmente scripts los cuales fueron creados por el desarrollador desde cero.
+
+Por favor, si tienes preguntas respecto al proyecto o otra cosa no dude en contactarme a my email: misaacf30@gmail.com .
+
+Diseñado y desarrollado por Miguel Fernandez
